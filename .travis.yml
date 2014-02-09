@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+- 2.0.0
+script:
+- bundle exec rake db:migrate --trace
+- RAILS_ENV=test bundle exec rake db:migrate --trace
+- bundle exec rake db:test:prepare
+- bundle exec rspec -fd spec/
+deploy:
+  provider: heroku
+  api_key:
+    secure: Z+jyJl5mVLWNgoNw2WtBMtUZEg54pXNr2kiIQdAm5rUiEk2QruIPeJ4bYURug654U2dzfMzgKUQ+jyCEfiGhRqso/aIwYO1WxJ/MOC/0Afa8bONzXkdsNVGA6PuaQWr94DHaMCLudV2dsZN9g0JRCPY8U7lJPK2MAvV+ekNWTNY=
+  app: beerbook
+  on:
+    repo: OssianL/beerbook
