@@ -1,3 +1,5 @@
 Teh beerbook
 
 beerbook.herokuapp.com/breweries
+https://codeclimate.com/github/OssianL/beerbook
+https://travis-ci.org/OssianL/beerbook

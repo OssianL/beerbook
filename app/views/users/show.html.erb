@@ -2,10 +2,18 @@
 
 <h2> <%= @user.username %></h2>
 
+<%= "is admin!!11!1!!!111!!!!!!!!!1!!11" if @user.admin %>
+
 <% if @user.ratings.empty? %>
     <p>has not yet made ratings</p>
 <% else %>
     <p>has made <%= pluralize( @user.ratings.count, 'rating') %></p>
+<% end %>
+
+<% if not @user.ratings.empty? %>
+  <%= "favorite beer: " + @user.favorite_beer.to_s %>
+  <%= "favorite brewery: " + @user.favorite_brewery.name  %>
+  <%= "favorite style: " + @user.favorite_style.to_s %>
 <% end %>
 
 <% if @user.beer_clubs.any? %>
