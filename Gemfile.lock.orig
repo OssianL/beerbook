@@ -47,8 +47,6 @@ GEM
       execjs
     coffee-script-source (1.7.0)
     columnize (0.3.6)
-    crack (0.4.2)
-      safe_yaml (~> 1.0.0)
     debugger (1.6.5)
       columnize (>= 0.3.1)
       debugger-linecache (~> 1.2.0)
@@ -56,18 +54,18 @@ GEM
     debugger-linecache (1.2.0)
     debugger-ruby_core_source (1.3.1)
     diff-lcs (1.2.5)
+<<<<<<< HEAD
+=======
     docile (1.1.3)
+>>>>>>> 0093bf189c0a3335e424108f7708fdb713b23e7b
     erubis (2.7.0)
     execjs (2.0.2)
-    factory_girl (4.4.0)
+    factory_girl (4.3.0)
       activesupport (>= 3.0.0)
-    factory_girl_rails (4.4.0)
-      factory_girl (~> 4.4.0)
+    factory_girl_rails (4.3.0)
+      factory_girl (~> 4.3.0)
       railties (>= 3.0.0)
     hike (1.2.3)
-    httparty (0.12.0)
-      json (~> 1.8)
-      multi_xml (>= 0.5.2)
     i18n (0.6.9)
     jbuilder (1.5.3)
       activesupport (>= 3.0.0)
@@ -85,7 +83,6 @@ GEM
     mini_portile (0.5.2)
     minitest (4.7.5)
     multi_json (1.8.4)
-    multi_xml (0.5.5)
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     pg (0.17.1)
@@ -101,8 +98,6 @@ GEM
       bundler (>= 1.3.0, < 2.0)
       railties (= 4.0.2)
       sprockets-rails (~> 2.0.0)
-    rails-settings-cached (0.3.1)
-      rails (>= 4.0.0.beta1)
     rails_12factor (0.0.2)
       rails_serve_static_assets
       rails_stdout_logging
@@ -128,8 +123,11 @@ GEM
       rspec-core (~> 2.14.0)
       rspec-expectations (~> 2.14.0)
       rspec-mocks (~> 2.14.0)
-    safe_yaml (1.0.1)
+<<<<<<< HEAD
+    sass (3.2.13)
+=======
     sass (3.2.14)
+>>>>>>> 0093bf189c0a3335e424108f7708fdb713b23e7b
     sass-rails (4.0.1)
       railties (>= 4.0.0, < 5.0)
       sass (>= 3.1.10)
@@ -165,9 +163,6 @@ GEM
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
-    webmock (1.17.3)
-      addressable (>= 2.2.7)
-      crack (>= 0.3.2)
     xpath (2.0.0)
       nokogiri (~> 1.3)
 
@@ -181,13 +176,11 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   debugger
   factory_girl_rails
-  httparty
   jbuilder (~> 1.2)
   jquery-rails
   launchy
   pg
   rails (= 4.0.2)
-  rails-settings-cached (= 0.3.1)
   rails_12factor
   rspec-rails (~> 2.14.1)
   sass-rails (~> 4.0.0)
@@ -196,4 +189,3 @@ DEPENDENCIES
   sqlite3
   turbolinks
   uglifier (>= 1.3.0)
-  webmock

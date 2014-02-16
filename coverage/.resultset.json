@@ -1,14 +1,14 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/ossian/ohjelmointi/beerbook/config/environment.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/application.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/application.rb": [
         1,
         null,
         1,
@@ -34,13 +34,13 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/boot.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/boot.rb": [
         null,
         1,
         null,
         1
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/environments/test.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/environments/test.rb": [
         1,
         null,
         null,
@@ -78,7 +78,7 @@
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/backtrace_silencers.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -87,13 +87,13 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/filter_parameter_logging.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/inflections.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -111,14 +111,14 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/mime_types.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/secret_token.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/secret_token.rb": [
         null,
         null,
         null,
@@ -132,12 +132,12 @@
         null,
         1
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/session_store.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/session_store.rb": [
         null,
         null,
         1
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/initializers/wrap_parameters.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -153,7 +153,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/factories.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/factories.rb": [
         1,
         1,
         1,
@@ -181,7 +181,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/models/rating.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/models/rating.rb": [
         1,
         1,
         1,
@@ -195,7 +195,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/config/routes.rb": [
+      "/home/ossian/RubymineProjects/beerbook/config/routes.rb": [
         1,
         1,
         null,
@@ -217,6 +217,8 @@
         null,
         1,
         null,
+        1,
+        1,
         null,
         null,
         null,
@@ -274,31 +276,31 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/helpers/application_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/helpers/beer_clubs_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/helpers/beer_clubs_helper.rb": [
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/helpers/beers_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/helpers/beers_helper.rb": [
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/helpers/breweries_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/helpers/breweries_helper.rb": [
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/helpers/memberships_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/helpers/memberships_helper.rb": [
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/helpers/users_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/helpers/users_helper.rb": [
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/support/helper/own_test_helper.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/support/helper/own_test_helper.rb": [
         1,
         null,
         1,
@@ -309,13 +311,13 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/models/beer_club.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/models/beer_club.rb": [
         1,
         1,
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/beer_clubs_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/beer_clubs_controller.rb": [
         1,
         1,
         1,
@@ -393,7 +395,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/application_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/application_controller.rb": [
         1,
         null,
         null,
@@ -402,7 +404,7 @@
         1,
         null,
         1,
-        98,
+        104,
         77,
         null,
         null,
@@ -415,7 +417,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/memberships_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/memberships_controller.rb": [
         1,
         1,
         null,
@@ -494,7 +496,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/features/breweries_page_spec.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/features/breweries_page_spec.rb": [
         1,
         null,
         1,
@@ -533,7 +535,49 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/features/rating_spec.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/features/places_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/ossian/RubymineProjects/beerbook/spec/features/rating_spec.rb": [
         1,
         1,
         null,
@@ -596,7 +640,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/features/users_spec.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/features/users_spec.rb": [
         1,
         1,
         null,
@@ -646,7 +690,69 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/models/beer_spec.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/lib/beermapping_api_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/ossian/RubymineProjects/beerbook/spec/models/beer_spec.rb": [
         1,
         null,
         1,
@@ -675,7 +781,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/models/beer.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/models/beer.rb": [
         1,
         1,
         null,
@@ -691,14 +797,14 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/lib/rating_average.rb": [
+      "/home/ossian/RubymineProjects/beerbook/lib/rating_average.rb": [
         1,
         1,
         2,
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/models/brewery_spec.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/models/brewery_spec.rb": [
         1,
         null,
         1,
@@ -717,7 +823,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/models/brewery.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/models/brewery.rb": [
         1,
         1,
         null,
@@ -728,7 +834,7 @@
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/spec/models/user_spec.rb": [
+      "/home/ossian/RubymineProjects/beerbook/spec/models/user_spec.rb": [
         1,
         null,
         1,
@@ -877,7 +983,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/models/user.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/models/user.rb": [
         1,
         1,
         null,
@@ -923,7 +1029,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/breweries_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/breweries_controller.rb": [
         1,
         1,
         1,
@@ -1001,30 +1107,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/sessions_controller.rb": [
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        8,
-        null,
-        8,
-        1,
-        null,
-        7,
-        7,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null
-      ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/users_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/users_controller.rb": [
         1,
         1,
         null,
@@ -1103,7 +1186,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/models/membership.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/models/membership.rb": [
         1,
         1,
         1,
@@ -1111,7 +1194,30 @@
         1,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/beers_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/sessions_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        8,
+        null,
+        8,
+        1,
+        null,
+        7,
+        7,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null
+      ],
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/beers_controller.rb": [
         1,
         1,
         1,
@@ -1195,7 +1301,7 @@
         null,
         null
       ],
-      "/home/ossian/ohjelmointi/beerbook/app/controllers/ratings_controller.rb": [
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/ratings_controller.rb": [
         1,
         1,
         1,
@@ -1224,10 +1330,59 @@
         1,
         1,
         1,
+        null,
+        null
+      ],
+      "/home/ossian/RubymineProjects/beerbook/lib/beermapping_api.rb": [
+        1,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/ossian/RubymineProjects/beerbook/app/models/place.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        5,
+        null,
+        null,
+        null
+      ],
+      "/home/ossian/RubymineProjects/beerbook/app/controllers/places_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        3,
+        3,
+        1,
+        null,
+        2,
+        null,
         null,
         null
       ]
     },
-    "timestamp": 1391965113
+    "timestamp": 1392394553
   }
 }
